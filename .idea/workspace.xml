@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d496ac8-5f03-4653-84a7-7e30e539d4e9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="0d496ac8-5f03-4653-84a7-7e30e539d4e9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -55,8 +52,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="166" />
+    <option name="x" value="71" />
+    <option name="y" value="123" />
     <option name="width" value="1661" />
     <option name="height" value="743" />
   </component>
@@ -186,7 +183,7 @@
       <updated>1488656885226</updated>
       <workItem from="1488656895802" duration="2291000" />
       <workItem from="1488744783406" duration="95000" />
-      <workItem from="1488897158378" duration="281000" />
+      <workItem from="1488897158378" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="my first commit H1">
       <created>1488661306955</created>
@@ -199,11 +196,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2667000" />
+    <option name="totallyTimeSpent" value="2998000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="166" width="1661" height="743" extended-state="0" />
-    <editor active="true" />
+    <frame x="71" y="123" width="1661" height="743" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25896657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
